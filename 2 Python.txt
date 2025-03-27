@@ -1,0 +1,19 @@
+A. function
+def keyword - paranthesis - colon
+
+B. function argument
+with f its dynamic- function changes as we call
+
+C. return values
+whenever we call function we need to return data--it will give back the result
+it is used at end of the block of the code
+cannot type anything after return function
+
+D. scope of variables
+1.local
+2.global
+
+E. file handling in python
+-> it is a process of opening, reading, writing, deleting and closing
+-> 4 types of file modes
+   "r" , "w' , "a" , "r+"
